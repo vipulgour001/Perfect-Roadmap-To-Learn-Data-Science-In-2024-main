@@ -143,7 +143,7 @@ iNeuron Internships: https://internship.ineuron.ai/
 ## Data Science Tracker Sheet For Learning
 https://drive.google.com/file/d/18doA_wMja2nAawcE6imIcfnEMf-Pir2n/view
 
-## Youtube Channels For Referring All Videos. Consider Subscribing and pressing the bell icon.
+## Youtube Channels For Referring All Videos.
 
 - Krish Naik : https://www.youtube.com/@krishnaik06
 - Krish Naik Hindi: https://www.youtube.com/@krishnaikhindi
